@@ -1,11 +1,11 @@
 void main() {
   bool activado = true; 
-  print (activado);
+  print(activado);
   activado =! activado; 
   if (activado == true) {
-    print ("encendido");
+    print("encendido");
   } else {
-    print ("apagado");
+    print("apagado");
   }
   
 }
@@ -17,6 +17,6 @@ void main (){
 if (activado == true){
   print("esta encendido");
 }else {
-  print ("esta apagado");
+  print("esta apagado");
 }
 }
